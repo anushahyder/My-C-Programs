@@ -1,2 +1,2 @@
 # My-C-Programs
-Just my C program assignments gng 💔💔
+C program assignments
